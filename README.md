@@ -1,5 +1,5 @@
 # myStackoverflow
-Python/Django RESTfull API for Stackoverflow's core features
+Python / Django RESTfull API for Stackoverflow's core features
 
 ## Project Features
 
