@@ -38,9 +38,7 @@ Python / Django RESTfull API for Stackoverflow's core features
 --------------------------------------
 
 ## Amazone Web Services used
-**Elastic Beanstalk** for web server 
-
-**Postgres RDS** for database
-
-**S3** for static files
+**Elastic Beanstalk** 
+**Postgres RDS**
+**S3**
 
