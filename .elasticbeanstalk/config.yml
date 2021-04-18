@@ -1,15 +1,15 @@
 branch-defaults:
   master:
-    environment: mystackoverflow-dev
+    environment: mystackoverflow-env
 environment-defaults:
-  mystackoverflow-dev:
+  mystackoverflow-env:
     branch: null
     repository: null
 global:
   application_name: myStackoverflow
   default_ec2_keyname: null
-  default_platform: arn:aws:elasticbeanstalk:us-east-2::platform/Python 3.7 running
-    on 64bit Amazon Linux 2/3.2.1
+  default_platform: arn:aws:elasticbeanstalk:us-east-2::platform/Python 3.6 running
+    on 64bit Amazon Linux/2.9.20
   default_region: us-east-2
   include_git_submodules: true
   instance_profile: null
