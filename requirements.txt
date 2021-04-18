@@ -1,16 +1,6 @@
 asgiref==3.3.4
-astroid==2.5.3
 Django==3.2
 djangorestframework==3.12.4
-isort==5.8.0
-lazy-object-proxy==1.6.0
-mccabe==0.6.1
-pylint==2.7.4
-pylint-django==2.4.3
-pylint-plugin-utils==0.6
 pytz==2021.1
 sqlparse==0.4.1
-toml==0.10.2
-typed-ast==1.4.3
 typing-extensions==3.7.4.3
-wrapt==1.12.1
