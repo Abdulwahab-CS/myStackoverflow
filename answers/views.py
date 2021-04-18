@@ -28,8 +28,8 @@ class AnswerList(APIView):
 
 class AnswerDetail(APIView):
     """
-        GET : to retrieve an answer
-        PATCH : to update an answer
+        GET : to retrieve an answer with its comments\n
+        PATCH : to update an answer\n
         DELETE : to delete an answer
     """
 

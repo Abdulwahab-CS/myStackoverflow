@@ -18,7 +18,7 @@ import re
 
 class QuestionList(APIView):
     """
-        GET : to list all questions
+        GET : to list all questions\n
         POST : to create new question
     """
 
@@ -47,8 +47,8 @@ class QuestionList(APIView):
 
 class QuestionDetail(APIView):
     """
-        GET : to retrieve a question
-        PATCH : to update a question 
+        GET : to retrieve a question with its answers and comments\n
+        PATCH : to update a question\n
         DELETE : to delete a question
     """
 

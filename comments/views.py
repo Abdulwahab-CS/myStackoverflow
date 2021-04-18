@@ -30,8 +30,8 @@ class QuestionCommentList(APIView):
 
 class QuestionCommentDetail(APIView):
     """
-        GET : to retrieve a question comment
-        PATCH : to update a question comment
+        GET : to retrieve a question comment\n
+        PATCH : to update a question comment\n
         DELETE : to delete a question comment
     """
 
@@ -75,8 +75,8 @@ class AnswerCommentList(APIView):
 
 class AnswerCommentDetail(APIView):
     """
-        GET : to retrieve an asnwer comment
-        PATCH : to update an asnwer comment
+        GET : to retrieve an asnwer comment\n
+        PATCH : to update an asnwer comment\n
         DELETE : to delete an asnwer comment
     """
 
